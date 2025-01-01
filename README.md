@@ -1,2 +1,2 @@
-# DSA
-Practice DSA 
+# Practice makes perfect 
+
